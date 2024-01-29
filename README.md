@@ -1,1 +1,1 @@
-# JEREMY
+#EXTINF:-1 tvg-id="Boruto cap" tvg-logo="https://images.justwatch.com/poster/8638018/s592/boruto-naruto-next-generations" group-title="Undefined",1+1 (1080p) https://dt53fg.cfglobalcdn.com/silverlight/secip/158708/174/2KJeGVyzF6sX87_92Xq-cA/MzguMjUwLjEyOC4yMDQ=/1706592257/hls-vod-s006/flv/api/files/videos/2021/12/18/1639836062rr52o.mp4.m3u8
